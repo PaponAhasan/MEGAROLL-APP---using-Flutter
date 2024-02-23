@@ -1,9 +1,9 @@
 # MEGAROLL-APP
 
-## Features👇 :
+### Features👇 :
 ![img.png](img.png)
 
-## Application Preview :
+### Application Preview :
 
 <img width="245" alt="file1" src="https://github.com/PaponAhasan/MEGAROLL-APP-using-Flutter/assets/59710234/50facfda-9bff-4448-bcca-1d1e0296feba">
 <img width="245" alt="file1" src="https://github.com/PaponAhasan/MEGAROLL-APP-using-Flutter/assets/59710234/dab1ede5-56f8-4824-b7a9-bae8d131f362">
