@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ![img.png](img.png)
 
 
-<img width="1250" alt="file1" src="https://github.com/PaponAhasan/MEGAROLL-APP-using-Flutter/assets/59710234/8db4deb0-096b-4dc0-b8fa-3405693a9962">
+<img width="500" alt="file1" src="https://github.com/PaponAhasan/MEGAROLL-APP-using-Flutter/assets/59710234/8db4deb0-096b-4dc0-b8fa-3405693a9962">
 
